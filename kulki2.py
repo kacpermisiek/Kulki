@@ -498,7 +498,7 @@ while run:
                 i.kopniecie_nowe = True
 
     #wynik
-    
+    print(uplynelo)
     G = gol(p, czerwoni_wynik, niebiescy_wynik, czerwoni_ostatnigol, kopniete)
     czerwoni_wynik = G[0]
     niebiescy_wynik = G[1]
