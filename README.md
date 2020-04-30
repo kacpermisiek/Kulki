@@ -52,3 +52,10 @@ Co zostało do zrobienia:
 2.	Wprowadzenie zasady zachowania energii.
 3.	Ustawienie limitu czasowego gry.
 4.	…
+
+# SPRAWOZDANIE 2 (30.04.2020)
+
+Co zostało dodane:
+1.	Blokada nachodzenia na siebie obiektów.
+2.	Wprowadzenie zasady zachowania energii.
+3.	Ustawienie limitu czasowego gry.
