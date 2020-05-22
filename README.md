@@ -59,3 +59,9 @@ Co zostało dodane:
 1.	Blokada nachodzenia na siebie obiektów.
 2.	Wprowadzenie zasady zachowania energii.
 3.	Ustawienie limitu czasowego gry.
+
+# SPRAWOZDANIE 3 (22.05.2020)
+Co zostało dodane:
+1. Menu gry
+2. Zakładka instrukcje
+3. Przycisk zakończenia gry
