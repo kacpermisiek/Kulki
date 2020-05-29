@@ -65,3 +65,8 @@ Co zostało dodane:
 1. Menu gry
 2. Zakładka instrukcje
 3. Przycisk zakończenia gry
+
+# Wersja alpha (29.05.2020)
+Co zostało dodane:
+1. Freeze graczy oraz piłki po upłynięciu czasu gry
+2. Gra została przeniesiona do pliku exe.
