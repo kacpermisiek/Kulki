@@ -71,4 +71,4 @@ Co zostało dodane:
 1. Freeze graczy oraz piłki po upłynięciu czasu gry
 2. Gra została przeniesiona do pliku exe.
 
-![](name-of-giphy.gif)
+![](giphy.gif)
