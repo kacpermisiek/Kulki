@@ -1,5 +1,6 @@
 # Kulki
 
+![](giphy.gif)
 
 1. Podstawowe zasady:
 
@@ -71,4 +72,4 @@ Co zostało dodane:
 1. Freeze graczy oraz piłki po upłynięciu czasu gry
 2. Gra została przeniesiona do pliku exe.
 
-![](giphy.gif)
+
